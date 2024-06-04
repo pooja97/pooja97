@@ -21,4 +21,4 @@ Machine Learning and Deep Learning: Scikit-learn, PCA, XGBoost, Linear Regressio
 
 Tools and Frameworks: Jupyter Notebook, VSCode, Docker, Git, Selenium, AirFlow, React, Kafka
 
-## My GitHub Stats 📊
+<img src="https://komarev.com/ghpvc/?username=pooja97&style=flat-square&color=blue" alt=""/>

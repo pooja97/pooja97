@@ -26,5 +26,5 @@ Tools and Frameworks: Jupyter Notebook, VSCode, Docker, Git, Selenium, AirFlow, 
 <img src="https://komarev.com/ghpvc/?username=pooja97&style=flat-square&color=blue" alt=""/>
 
 ## :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=pooja97
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pooja97&theme=dark&background=000000)](https://git.io/streak-stats)
 

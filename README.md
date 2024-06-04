@@ -1,10 +1,10 @@
 ## Hi there 👋
-My name is Pooja Yadav. I'm a Data Engineer and a Master of Science graduate from San Diego State University <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+My name is Pooja Yadav. I'm a Data Engineer and a Master of Science graduate from San Diego State University.
 <br>
 Thank you for viewing my GitHub profile.
 
 ## About Me ✍
-🔭 I'm working as a Data Engineer at Getinge.
+🔭 I'm working as a Data Engineer at Getinge <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 💬 Ask me about Data Engineering, Machine Learning, and Deep Learning.
 
 ## 💻 Technical Proficiency

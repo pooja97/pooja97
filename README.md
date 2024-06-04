@@ -1,10 +1,9 @@
 ## Hi there 👋
-My name is Pooja Yadav. I'm a Data Engineer and a Master of Science graduate from San Diego State University.
-<br>
+My name is Pooja Yadav. I'm a Data Engineer and a Master of Science graduate from San Diego State University.<br>
 Thank you for viewing my GitHub profile.
 
 ## About Me ✍
-🔭 I'm working as a Data Engineer at Getinge <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
+🔭 I'm a Data Engineer at Getinge <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 💬 Ask me about Data Engineering, Machine Learning, and Deep Learning.<br>
 
 
@@ -23,11 +22,14 @@ Machine Learning and Deep Learning: Scikit-learn, PCA, XGBoost, Linear Regressio
 
 Tools and Frameworks: Jupyter Notebook, VSCode, Docker, Git, Selenium, AirFlow, React, Kafka
 
-<img src="https://komarev.com/ghpvc/?username=pooja97&style=flat-square&color=blue" alt=""/>
 
 ## :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pooja97&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pooja97&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pooja97&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
+
+## Profile Views
+<img src="https://komarev.com/ghpvc/?username=pooja97&style=flat-square&color=blue" alt=""/>
+
 
 

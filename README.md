@@ -20,3 +20,5 @@ Big Data: PySpark, PySparkSQL, Spark
 Machine Learning and Deep Learning: Scikit-learn, PCA, XGBoost, Linear Regression, Logistic Regression, Clustering Analysis, VGG16, TensorFlow, Keras, Image Segmentation (Computer Vision)
 
 Tools and Frameworks: Jupyter Notebook, VSCode, Docker, Git, Selenium, AirFlow, React, Kafka
+
+## My GitHub Stats 📊

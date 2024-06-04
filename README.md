@@ -6,7 +6,6 @@ Thank you for viewing my GitHub profile.
 ## About Me ✍
 🔭 I'm working as a Data Engineer at Getinge <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 💬 Ask me about Data Engineering, Machine Learning, and Deep Learning.<br>
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/poojayadav20/)
 
 
 ## 💻 Technical Proficiency

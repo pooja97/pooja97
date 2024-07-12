@@ -1,6 +1,6 @@
 ## Hi there 👋
-I'm  Pooja Yadav a Data Engineer and a Master of Science graduate from San Diego State University.<br>
-Thank you for viewing my GitHub profile.
+I'm  Pooja Yadav a Data Scientist, Data Engineer, and a Master of Science graduate from San Diego State University.<br>
+Thank you for visiting my GitHub profile.
 
 ## About Me ✍
 :microscope: Currently a Scientist at IFF <br>

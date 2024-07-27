@@ -3,7 +3,7 @@ I'm  Pooja Yadav a Data Scientist, Data Engineer, and a Master of Science gradua
 Thank you for visiting my GitHub profile.
 
 ## About Me ✍
-:microscope: Currently a Scientist at IFF <br>
+:microscope: Current: Research Scientist at IFF <br>
 🔭 Previously a Data Engineer at Getinge <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 💬 Ask me about Data Engineering, Machine Learning, and Deep Learning.<br>
 

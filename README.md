@@ -3,13 +3,13 @@ I'm  Pooja Yadav a Data Scientist, Data Engineer, and a Master of Science gradua
 Thank you for visiting my GitHub profile.
 
 ## About Me ✍
-:microscope: Current: Research Scientist at IFF <br>
+:microscope: Current: Scientist I at IFF <br>
 🔭 Previously a Data Engineer at Getinge <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 💬 Ask me about Data Engineering, Machine Learning, and Deep Learning.<br>
 
 
 ## 💻 Technical Proficiency
-Programming Languages: Python, SQL, Java, T-SQL <br>
+Programming Languages: Python, SQL, Java, T-SQL, JavaScript <br>
 Databases: PostgreSQL, MySQL, MongoDB, BigQuery, SSIS, DBeaver<br>
 Data Analysis: Pandas, NumPy, Tableau, Streamlit, Plotly, Seaborn, Power BI<br>
 Big Data: PySpark, PySparkSQL, Spark<br>
@@ -17,11 +17,11 @@ Big Data: PySpark, PySparkSQL, Spark<br>
 ☁️ Cloud Services:
  - AWS: S3, EC2, ECS, ECR, Glue, Lambda, Athena, QuickSight<br>
  - GCP: Cloud Compute, BigQuery, Looker Studio<br>
- - Azure: ADLS gen2, Databricks, Synapse, DevOps, OpenAI<br>
+ - Azure: ADLS gen2, Synapse, DevOps, OpenAI<br>
 
 Machine Learning and Deep Learning: Scikit-learn, PCA, XGBoost, Linear Regression, Logistic Regression, Clustering Analysis, VGG16, TensorFlow, Keras, Image Segmentation (Computer Vision)<br>
 
-Tools and Frameworks: Jupyter Notebook, VSCode, Docker, Git, Selenium, AirFlow, React, Kafka
+Tools and Frameworks: Jupyter Notebook, Databricks, KNIME, VSCode, Docker, Git, Selenium, AirFlow, Kafka
 
 
 ## :fire: My Stats :

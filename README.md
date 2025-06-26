@@ -12,7 +12,7 @@ Thank you for visiting my GitHub profile.
 Programming Languages: Python, SQL, Java, T-SQL, JavaScript <br>
 Databases: PostgreSQL, MySQL, MongoDB, BigQuery, SSIS, DBeaver<br>
 Data Analysis: Pandas, NumPy, Tableau, Streamlit, Plotly, Seaborn, Power BI<br>
-Big Data: PySpark, PySparkSQL, Spark<br>
+Big Data and Data warehouse: PySpark, PySparkSQL, Spark, Snowflake<br>
 
 ☁️ Cloud Services:
  - AWS: S3, EC2, ECS, ECR, Glue, Lambda, Athena, QuickSight<br>
